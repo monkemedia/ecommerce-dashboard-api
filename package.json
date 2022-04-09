@@ -28,7 +28,7 @@
     "http-errors": "^1.7.3",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.20",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "mongodb": "^3.3.2",
     "mongoose": "^5.7.5",
     "mongoose-deep-populate": "^3.1.1",
